@@ -17,7 +17,7 @@ for (let x of arr) {
         return reversed;
     }
     
-    // Example usage
+  
     let firstString = "Glory, Joy!";
     let reversedString = reverseString(firstString);
     console.log(reversedString); 
@@ -66,7 +66,7 @@ function manipulateArray(numbers) {
     return manipulatedArray;
 }
 
-// Example usage
+
 let numbers = [1, 2, 3, 4, 5, 6, 7];
 let resultArray = manipulateArray(numbers);
 console.log(resultArray);
