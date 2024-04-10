@@ -3,7 +3,7 @@ let arr = (["Hello", "Ada", "What", "is", "that", "shirt"]);
 
 for (let x of arr) { 
     console. log(x. toString()) } 
-     let myFunction = (x) => x
+  
 
 //Write a JavaScript function that takes a string as input and reverses it using a while loop. The function should return the reversed string. 
 
@@ -70,3 +70,19 @@ function manipulateArray(numbers) {
 let numbers = [1, 2, 3, 4, 5, 6, 7];
 let resultArray = manipulateArray(numbers);
 console.log(resultArray);
+ 
+
+// function arrayOfNumz(numberz){
+//     let nwArrey = [];
+//     for(i=1, i<=numberz.length; i++;){
+//         if(i<4){
+//             // const multiplied = i**2;
+//             nwArrey.push(i*i);
+
+//         }else if(
+            
+//         )
+            
+//     }
+// }
+// arrayOfNumz([3,4,5,6,7,8,9]);
